@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.navContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #555;
+}
+
+a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+
+}
+
+ a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+main{
+    background-color: aqua;
+}
+
+section{
+    text-align: center;
+
+    padding: 20px;
+    background-color: gray;
+    margin-bottom: 5px;
+
+    background-image: url("	https://assets.enuygun.com/media/lib/570x400/uploads/image/kusadasi-34489.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+}
+
+  
+footer a{
+    color: white;
+}
+
+footer{
+    background-color: #333;
+    text-align: center;
+    font-size: 24px;
+    color: aliceblue;
+
+}
+
+
+.aboutImgSection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
